@@ -1,0 +1,11 @@
+C:\NotificationManagement1\SHR_DBEntity\bin\Debug\netcoreapp3.1\NotificationManagementDBEntity.deps.json
+C:\NotificationManagement1\SHR_DBEntity\bin\Debug\netcoreapp3.1\NotificationManagementDBEntity.dll
+C:\NotificationManagement1\SHR_DBEntity\obj\Debug\netcoreapp3.1\NotificationManagementDBEntity.csprojAssemblyReference.cache
+C:\NotificationManagement1\SHR_DBEntity\obj\Debug\netcoreapp3.1\NotificationManagementDBEntity.AssemblyInfoInputs.cache
+C:\NotificationManagement1\SHR_DBEntity\obj\Debug\netcoreapp3.1\NotificationManagementDBEntity.AssemblyInfo.cs
+C:\NotificationManagement1\SHR_DBEntity\bin\Debug\netcoreapp3.1\NotificationManagementDBEntity.runtimeconfig.json
+C:\NotificationManagement1\SHR_DBEntity\bin\Debug\netcoreapp3.1\NotificationManagementDBEntity.runtimeconfig.dev.json
+C:\NotificationManagement1\SHR_DBEntity\obj\Debug\netcoreapp3.1\NotificationManagementDBEntity.genruntimeconfig.cache
+C:\NotificationManagement1\SHR_DBEntity\bin\Debug\netcoreapp3.1\NotificationManagementDBEntity.pdb
+C:\NotificationManagement1\SHR_DBEntity\obj\Debug\netcoreapp3.1\NotificationManagementDBEntity.dll
+C:\NotificationManagement1\SHR_DBEntity\obj\Debug\netcoreapp3.1\NotificationManagementDBEntity.pdb
